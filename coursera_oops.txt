@@ -1,0 +1,16 @@
+OOPS
+INTRO to Object Oriented Programming with Java
+
+4 Modules
+1) Objects and Class
+2) Creating Classes
+3) Using Java Objects
+4) Namespaces and Java Libraries
+
+Learning objective includes
+1) Understand and implement Encapsulation
+2) Build simple Java classes
+3) Work with string, math, and console output
+
+
+

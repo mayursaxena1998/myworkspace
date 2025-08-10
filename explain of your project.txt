@@ -1,0 +1,30 @@
+My project
+
+existing .net to new java 
+This was the first banking project change from .net to java
+production
+required gathering by bancker
+develop 
+system testing
+User aceptencse testing
+regression
+production move 
+basic flow
+
+tools = weblogic 
+sql developer 
+eclipse
+
+major=  many has screen adhar no = refrence no 
+interface api k through adhar to refrence and refrence no to adhar
+challege = kahi p adhar / kahi p refrence 
+NPCI= adhar mandatory
+api calling mandatory 
+ajax use 
+
+
+
+
+
+ajax uimodel, rsdatatype, rqrcm 
+
