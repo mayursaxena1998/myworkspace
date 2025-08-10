@@ -1,0 +1,48 @@
+Mayur Saxena
+Software Engineer (System Engineer)
+Onward Technologies 
+Skills
+OS
+Windows, Unix
+LANGUAGES
+Java,javascript,
+FRAMEWORK
+Node.js, Hibernate, Struts
+DATABASES
+MySQL
+OTHERS
+SQL Developer,
+putty, Sublime Text,
+Eclipse,VS code,
+GIT
+
+Education
+2016‐2020
+B.TECH INFO. TECH.
+SGGS IE&T Nanded(Government
+Autonomous)
+CGPA : 7.0/10
+2015‐2016
+
+57(BDA) Panchsheel Nagar 
+Bhopal 462-003, India
+Mob.: +91‐918435392665
+ Email.:mayursaxena96@gmail.com		
+ www.linkedin.com/in/mayur-saxena-/
+Experience
+ Sep 2021‐NOW Onward Technologies  System Engineer, Developer
+ Core banking Solutions
+Project targeted to migrate existing B@ncs24 Software from distributed
+to centralized systems, and technology upgrade from existing .net to Java.
+As a Software Developer, I am responsible for development and
+integration of diverse software components, resulting in a functional
+screen with a smooth end to end flow.
+ Java, mysql, javascript, jquery
+ Bancs24
+As a Software Developer, I am responsible for development and Support
+of developed Application. Worked as backend for fine tuning, perl/unix
+scripting as well as to provide real time solutions for customer
+requiements.
+ Perl,unix, mysql
+
+ 
